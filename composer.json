@@ -1,0 +1,13 @@
+{
+    "name": "feataholic/content-promoter",
+    "type": "plugin",
+    "license": "GPL",
+    "authors": [
+        {
+            "name": "Stergos Zamagias",
+            "email": "stergosz1@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
